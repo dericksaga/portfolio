@@ -22,9 +22,8 @@
       - Desenvolvimento de sistemas de supervisão.  
       
 ## Projetos de Data Science
+### Richter's Predictor: Modeling Earthquake Damage - Competição no drivendata.org
 
-   ### Richter's Predictor: Modeling Earthquake Damage - Competição no drivendata.org
-   
    [Jupyter Notebook](https://github.com/dericksaga/ML_Competitions/blob/main/Richters_Predictor/First_Notebook.ipynb)  
    
 <img src="./assets/img/ritcher_predictor2.png" width="400" height="200">
