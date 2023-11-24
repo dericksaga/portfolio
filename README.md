@@ -20,4 +20,4 @@
       
 ## Projetos
    ### Richter's Predictor: Modeling Earthquake Damage - Competição no drivendata.org
-   [Publication]()
+   [Publication](https://github.com/dericksaga/ML_Competitions/blob/main/Richters_Predictor/First_Notebook.ipynb)
