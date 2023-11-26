@@ -8,7 +8,7 @@
   **Analista de TI Sênior na Vale S.A. (2016-Atualmente)**  
       - Gerente de projetos de tecnologia industrial;  
       - Condução de provas de conceito em programas de inovação aberta;  
-      - Product Owner de aplicações de tecnologia operacional.  
+      - Product Owner de aplicações de tecnologia operacional.
       
   **Engenheiro de Automação na Fundação Christiano Ottoni(2011-2016)**  
       - Engenheiro pesquisador em projeto P&D;  
