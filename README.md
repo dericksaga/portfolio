@@ -25,5 +25,6 @@
 ### Richter's Predictor: Modeling Earthquake Damage - Competição no drivendata.org
 
    [Jupyter Notebook](https://github.com/dericksaga/ML_Competitions/blob/main/Richters_Predictor/First_Notebook.ipynb)  
-   
-<img src="./assets/img/ritcher_predictor2.png" width="400" height="200">
+
+   O problema consiste em classificar o nível de dano em edifícios causado por um terremoto no Nepal.  
+   Destaque: uso de engenharia de atributos para aumento de performance do modelo. 
