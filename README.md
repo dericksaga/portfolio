@@ -1,8 +1,9 @@
 # Analista de Sistemas e Cientista de dados
 
 ## Formação
-  Mestre em Engenharia Elétrica  
-  Bacharel em Engenharia de Controle e Automação
+  Especialização em Inteligência Artificial e Aprendizado de Máquina - PUC Minas (Em curso)  
+  Mestre em Engenharia Elétrica - UFMG (2011-2013)   
+  Bacharel em Engenharia de Controle e Automação - UFMG (2006-2011)  
 
 ## Experiência Profissional
   **Analista de TI Sênior na Vale S.A. (2016-Atualmente)**  
@@ -10,7 +11,7 @@
       - Condução de provas de conceito em programas de inovação aberta;  
       - Product Owner de aplicações de tecnologia operacional.
       
-  **Engenheiro de Automação na Fundação Christiano Ottoni(2011-2016)**  
+  **Engenheiro de Automação na Fundação Christiano Ottoni (2011-2016)**  
       - Engenheiro pesquisador em projeto P&D;  
       - Implementação e gestão de PIMS da Osisoft - PI System.  
       
@@ -22,7 +23,8 @@
       - Desenvolvimento de sistemas de supervisão.  
       
 ## Projetos de Data Science
-### Richter's Predictor: Modeling Earthquake Damage - Competição no drivendata.org
+### Richter's Predictor: Modeling Earthquake Damage
+Competição no drivendata.org
 
    [Jupyter Notebook](https://github.com/dericksaga/ML_Competitions/blob/main/Richters_Predictor/First_Notebook.ipynb)  
 
