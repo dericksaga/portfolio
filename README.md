@@ -24,9 +24,11 @@
       
 ## Projetos de Data Science
 ### Richter's Predictor: Modeling Earthquake Damage
-Competição no drivendata.org
+Competição no drivendata.org  
+Pontuação máxima: 0.7468. Pontuação do Leaderboard: 0.7558.
 
-   [Jupyter Notebook](https://github.com/dericksaga/ML_Competitions/blob/main/Richters_Predictor/First_Notebook.ipynb)  
+   [Jupyter Notebook](https://github.com/dericksaga/ML_Competitions/blob/main/Richters_Predictor/Ritchers_Predictor_v1.ipynb)  
 
    O problema consiste em classificar o nível de dano em edifícios causado por um terremoto no Nepal.  
-   Destaque: uso de engenharia de atributos para aumento de performance do modelo. 
+   Abordagem focada em análise exploratória e engenharia de atributos, com recodificação das variáveis de localização geográfica. 
+   
