@@ -29,9 +29,11 @@ Pontuação máxima: 0.7468. Pontuação do Leaderboard: 0.7558.
 
 O problema consiste em classificar o nível de dano em edifícios causado por um terremoto no Nepal.  
    
-   Parte 1 - Abordagem focada em análise exploratória e engenharia de atributos, com recodificação das variáveis de localização geográfica. Modelo Random Forest.  [Jupyter Notebook](https://github.com/dericksaga/ML_Competitions/blob/main/Richters_Predictor/Ritchers_Predictor_v1.ipynb)  
+   Abordagem focada em análise exploratória e engenharia de atributos, com recodificação das variáveis de localização geográfica. Modelo Random Forest.  
+   
+   [Jupyter Notebook](https://github.com/dericksaga/ML_Competitions/blob/main/Richters_Predictor/Ritchers_Predictor_v1.ipynb)  
 
-   Parte 2 - Utilizando Modelo Multilayer Perceptron:  [Jupyter Notebook-Parte 2](https://github.com/dericksaga/ML_Competitions/blob/main/Richters_Predictor/Ritchers_Predictor_v3_MLP.ipynb)
+   Teste de Modelo Multilayer Perceptron:  [Jupyter Notebook](https://github.com/dericksaga/ML_Competitions/blob/main/Richters_Predictor/Ritchers_Predictor_v3_MLP.ipynb)
 
 ### DengAI: Predicting Disease Spread
 Competição no drivendata.org  
