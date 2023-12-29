@@ -39,4 +39,4 @@ Melhor score: 27.1779. Pontuação do Leaderboard: 10.1010.
    [Jupyter Notebook](https://github.com/dericksaga/ML_Competitions/blob/main/DengAI/DengAI_Predicting_v3.ipynb)  
 
    O problema consiste em prever o total de casos de dengue nas cidades de San Juan e Iquitos.  
-   Abordagem utilizando modelo linear generalizado com distribuição de Poisson. Análise de sazonalidade e correlação temporal. 
+   Abordagem utilizando Modelo Linear Generalizado com distribuição de Poisson. Análise de sazonalidade e correlação temporal. 
